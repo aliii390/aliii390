@@ -7,7 +7,7 @@
 ## 🚀 À propos de moi
 
 - 💡 Passionné par le développement web, j’aime créer des projets qui ont du style et du sens.  
-- 📚 Actuellement en formation chez [Garage404](https://garage404.com).  
+  
 
 
 ---
